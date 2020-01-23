@@ -1,0 +1,145 @@
+		div.head{
+			width:100%;
+			height:50px;
+			background-color: rgb(44, 62, 80);
+			position: fixed;
+			top:0px;
+			left: 0px;
+			color:white;
+			font-size: 16px;
+		}
+		span.school_name{
+			margin: 5px 15px;
+			line-height: 45px;
+		}
+		div.user_info{
+			width: 200px;
+		}
+		div.user_info span{
+			margin: 0px 15px;
+			line-height:45px;
+		}
+		div.body_div{
+			width:950px;
+			margin: 60px auto;
+		}
+		div.body_div .nav{
+			position: relative;
+			height: 41px;
+			background-color:rgb(44, 62, 80);
+		}
+		div.body_div .nav a{
+			display: inline-block;
+			position: relative;
+			text-decoration: none;
+		}
+		div.body_div .nav span{
+			color:white;
+			font-size: 17px;
+			line-height: 40px;
+			display: inline-block;
+			padding-left: 57px;
+		}
+		div.body_div div.hide_div#hide_d1{
+			width:130px;
+			height:50px;
+			position: absolute;
+			left:20px;
+			background-color:rgb(44, 62, 80);
+			display:none;
+			z-index: 2;
+		}
+		div.body_div div.hide_div#hide_d2{
+			width:130px;
+			height:135px;
+			position: absolute;
+			left:278px;
+			background-color:rgb(44, 62, 80);
+			display:none;
+			z-index: 2;
+		}
+		div.body_div div.hide_div#hide_d3{
+			width:130px;
+			height:135px;
+			position: absolute;
+			left:405px;
+			background-color:rgb(44, 62, 80);
+			display:none;
+			z-index: 2;
+		}
+		div.body_div div.hide_div#hide_d4{
+			width:130px;
+			height:325px;
+			position: absolute;
+			left:650px;
+			background-color:rgb(44, 62, 80);
+			display:none;
+			z-index: 2;
+		}
+		div.body_div div.hide_div#hide_d5{
+			width:130px;
+			height:95px;
+			position: absolute;
+			left:778px;
+			background-color:rgb(44, 62, 80);
+			display:none;
+			z-index: 2;
+		}
+		div.hide_div span{
+			color:white;
+			font-size: 15px;
+			line-height: 40px;
+			display: inline-block;
+			margin-left:-20px !important;
+		}
+		div.hide_div a{
+			text-decoration: none;
+		}
+		
+		div.phead{
+			height: 40px;
+			background-color:rgb(44, 62, 80);
+		}
+		div.phead span{
+			color:white;
+			font-size: 16px;
+			line-height: 40px;
+			margin-left:20px;
+		}
+		div.content_div textarea{
+			resize: none;
+			display: block;
+			float: right;
+		}
+		div.pbody{
+			border:1px solid black;
+		}
+		div.row span{
+			line-height: 85px;
+			font-weight: bold;
+			margin-left: 150px;
+		}
+		div.myradio{
+			margin-top:-15px;
+			margin-left:150px;
+		}
+		div.row textarea{
+			display: block;
+			margin-left:-40px;
+			margin-top:-15px;
+		}
+		div.pbody div.informs_check{
+			width: 150px;
+			height: 30px;
+			float: right;
+			margin:10px 20px;
+			
+		}
+		div.option_div select{
+			margin-top:5px;
+			width:80px;
+		}
+		/* lin */
+		.bd {
+			border:1px #000000 solid
+		}
