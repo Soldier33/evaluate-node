@@ -7,11 +7,9 @@
 
 
 
-技术栈：node(express) + mysql + jq + template模板
+技术栈：node(express) + mysql +  template模板 + jq + bootstrap
 
 
 
 实现了模块化编程
-
-
 
